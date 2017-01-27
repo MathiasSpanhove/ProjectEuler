@@ -27,7 +27,7 @@ RAM: 16,0GB Dual-Channel DDR3 @ 798MHz
 | 010    | Summation of primes                               | 26/01/2016 |0.53019s  |![problem solved][solved]      |[Problem 10](https://projecteuler.net/problem=10)  |
 | 011    | Largest product in a grid                         |            |          |![problem not solved][unsolved]|[Problem 11](https://projecteuler.net/problem=11)  |
 | 012    | Highly divisible triangular number                |            |          |![problem not solved][unsolved]|[Problem 12](https://projecteuler.net/problem=12)  |
-| 013    | Large sum                                         |            |          |![problem not solved][unsolved]|[Problem 13](https://projecteuler.net/problem=13)  |
+| 013    | Large sum                                         | 27/01/2016 |0.00011s  |![problem solved][solved]      |[Problem 13](https://projecteuler.net/problem=13)  |
 | 014    | Longest Collatz sequence                          | 26/01/2016 |2.20673s  |![problem solved][solved]      |[Problem 14](https://projecteuler.net/problem=14)  |
 | 015    | Lattice paths                                     |            |          |![problem not solved][unsolved]|[Problem 15](https://projecteuler.net/problem=15)  |
 | 016    | Power digit sum                                   | 27/01/2016 |0.00018s  |![problem solved][solved]      |[Problem 16](https://projecteuler.net/problem=16)  |
