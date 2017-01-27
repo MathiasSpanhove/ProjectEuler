@@ -1,6 +1,6 @@
 __author__ = 'Mathias'
 
-from time import time
+import timeit
 
 c = {}
 
@@ -42,7 +42,7 @@ def search_longest_chain(number):
 
     return [longest_length, chain_number]
 
-start = time()
-print(search_longest_chain(1000000))
-print(time()-start)
 
+start = timeit.default_timer()
+print(search_longest_chain(1000000))
+print(timeit.default_timer() - start)

@@ -1,5 +1,6 @@
 __author__ = 'Mathias'
 
+import timeit
 
 def primes_sieve(bound):
     if (bound == 0 or bound == 1):
@@ -15,4 +16,6 @@ def primes_sieve(bound):
                 a[index] = False
 
 
+start = timeit.default_timer()
 print(sum(list(primes_sieve(2000000))))
+print(timeit.default_timer() - start)

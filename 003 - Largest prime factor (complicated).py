@@ -1,6 +1,6 @@
 __author__ = 'Mathias'
 
-import math
+import timeit
 
 def get_prime(bound):
     primes = [2]
@@ -36,4 +36,7 @@ def prime_factor(number):
 
 
 print(prime_factor(13195)[-1])
+
+start = timeit.default_timer()
 print(prime_factor(600851475143)[-1])
+print(timeit.default_timer() - start)

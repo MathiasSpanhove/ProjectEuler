@@ -1,5 +1,7 @@
 __author__ = 'Mathias'
 
+import timeit
+
 
 def largest_prime_factor(number):
     i = 2
@@ -11,4 +13,7 @@ def largest_prime_factor(number):
 
 print(largest_prime_factor(6))
 print(largest_prime_factor(13195))
+
+start = timeit.default_timer()
 print(largest_prime_factor(600851475143))
+print(timeit.default_timer() - start)

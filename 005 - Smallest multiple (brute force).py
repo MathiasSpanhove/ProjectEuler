@@ -1,6 +1,7 @@
 __author__ = 'Mathias'
 
-import math
+import timeit
+
 
 def smallest_mulitple(number):
     smallest = 0
@@ -15,4 +16,6 @@ def smallest_mulitple(number):
             return smallest
 
 
+start = timeit.default_timer()
 print(smallest_mulitple(20))
+print(timeit.default_timer() - start)

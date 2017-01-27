@@ -1,5 +1,7 @@
 __author__ = 'Mathias'
 
+import timeit
+
 def largest_palindrome():
     x = 999
     palindroom = 0
@@ -16,4 +18,7 @@ def largest_palindrome():
 
     return palindroom
 
+
+start = timeit.default_timer()
 print(largest_palindrome())
+print(timeit.default_timer() - start)

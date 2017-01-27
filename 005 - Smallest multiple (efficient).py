@@ -1,7 +1,7 @@
 __author__ = 'Mathias'
 
-import math
 import functools
+import timeit
 
 def get_prime(bound):
     primes = [2]
@@ -53,4 +53,7 @@ def smallest_multiple(number):
                 array.append(k)
     return functools.reduce(lambda x, y: x*y, array)
 
+
+start = timeit.default_timer()
 print(smallest_multiple(20))
+print(timeit.default_timer() - start)

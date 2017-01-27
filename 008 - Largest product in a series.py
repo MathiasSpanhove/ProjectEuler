@@ -1,6 +1,7 @@
 __author__ = 'Mathias'
 
 import functools
+import timeit
 
 series = "73167176531330624919225119674426574742355349194934" \
          "96983520312774506326239578318016984801869478851843" \
@@ -42,4 +43,7 @@ def largest_product_series(number, series_length):
 
     return largest_product
 
+
+start = timeit.default_timer()
 print(largest_product_series(series, 13))
+print(timeit.default_timer() - start)

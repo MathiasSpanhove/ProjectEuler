@@ -1,6 +1,6 @@
 __author__ = 'Mathias'
 
-import functools
+import timeit
 
 #fib = lambda n: functools.reduce(lambda x: [x[1], x[0] + x[1]], range(n), [1, 1])[0]
 
@@ -16,4 +16,7 @@ def fibonacci(bound):
         elif init[1] > bound:
             break
 
+
+start = timeit.default_timer()
 print(sum(x for x in fibonacci(4000000)))
+print((timeit.default_timer() - start))

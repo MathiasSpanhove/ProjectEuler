@@ -1,5 +1,7 @@
 __author__ = 'Mathias'
 
+import timeit
+
 def get_x_prime(number):
     primes = [2]
     n = 3
@@ -17,4 +19,7 @@ def get_x_prime(number):
         n += 2
     return primes[-1]
 
+
+start = timeit.default_timer()
 print(get_x_prime(10001))
+print(timeit.default_timer() - start)
