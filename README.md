@@ -12,7 +12,7 @@ RAM: 16,0GB Dual-Channel DDR3 @ 798MHz
 
 # Solutions
 | Number | Title                                             | Date       | Runtime  | Solved                        | Link                                              |
-|--------|---------------------------------------------------|------------|----------|-------------------------------|---------------------------------------------------|
+|:------:|---------------------------------------------------|:----------:|---------:|:-----------------------------:|--------------------------------------------------:|
 | 001    | Multiples of 3 and 5                              | 26/01/2016 |0.00034s  |![problem solved][solved]      |[Problem 1](https://projecteuler.net/problem=1)    |
 | 002    | Even Fibonacci numbers                            | 26/01/2016 |< 0.00001s|![problem solved][solved]      |[Problem 2](https://projecteuler.net/problem=2)    |
 | 003    | Largest prime factor (complicated)                | 26/01/2016 |0.04257s  |![problem solved][solved]      |[Problem 3](https://projecteuler.net/problem=3)    |
@@ -31,6 +31,7 @@ RAM: 16,0GB Dual-Channel DDR3 @ 798MHz
 | 014    | Longest Collatz sequence                          | 26/01/2016 |2.20673s  |![problem solved][solved]      |[Problem 14](https://projecteuler.net/problem=14)  |
 | 015    | Lattice paths                                     |            |          |![problem not solved][unsolved]|[Problem 15](https://projecteuler.net/problem=15)  |
 | 016    | Power digit sum                                   | 27/01/2016 |0.00018s  |![problem solved][solved]      |[Problem 16](https://projecteuler.net/problem=16)  |
+| 016    | Number letter counts                              | 28/01/2016 |0.00338s  |![problem solved][solved]      |[Problem 17](https://projecteuler.net/problem=17)  |
 
 [solved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/solved.png "problem solved"
 [unsolved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/unsolved.png "problem not solved"
