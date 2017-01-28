@@ -2,6 +2,7 @@ __author__ = 'Mathias'
 
 import math
 import timeit
+import functools
 from itertools import takewhile
 
 
@@ -15,14 +16,10 @@ def triangular():
         count += 1
 
 
-def calc_divisors(number):
-    divisors = [1, number]
-    for x in range(2, math.ceil(math.sqrt(number))):
-        if (number % x == 0):
-            divisors.append(x)
-            divisors.append(number / x)
-
-    return divisors
+def calc_divisors(n):
+    step = 2 if n % 2 else 1
+    return set(
+        functools.reduce(list.__add__, ([i, n // i] for i in range(1, int(math.sqrt(n)) + 1, step) if n % i == 0)))
 
 
 start = timeit.default_timer()

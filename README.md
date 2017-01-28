@@ -25,18 +25,19 @@ IDE: PyCharm Community Edition
 | 006    | Sum square difference                             | 26/01/2017 |< 0.00001s|![problem solved][solved]      |[Problem 6](https://projecteuler.net/problem=6)    |
 | 007    | 10001st prime                                     | 26/01/2017 |6.53110s  |![problem solved][solved]      |[Problem 7](https://projecteuler.net/problem=7)    |
 | 008    | Largest product in a series                       | 26/01/2017 |0.00181s  |![problem solved][solved]      |[Problem 8](https://projecteuler.net/problem=8)    |
-| 009    | Special Pythagorean triplet                       |            |          |![problem not solved][unsolved]|[Problem 9](https://projecteuler.net/problem=9)    |
+| 009    | Special Pythagorean triplet                       | 28/01/2017 |0.11237s  |![problem solved][solved]      |[Problem 9](https://projecteuler.net/problem=9)    |
 | 010    | Summation of primes                               | 26/01/2017 |0.53019s  |![problem solved][solved]      |[Problem 10](https://projecteuler.net/problem=10)  |
 | 011    | Largest product in a grid                         |            |          |![problem not solved][unsolved]|[Problem 11](https://projecteuler.net/problem=11)  |
-| 012    | Highly divisible triangular number                | 28/01/2017 |7.59657s  |![problem solved][solved]      |[Problem 12](https://projecteuler.net/problem=12)  |
+| 012    | Highly divisible triangular number                | 28/01/2017 |5.81420s  |![problem solved][solved]      |[Problem 12](https://projecteuler.net/problem=12)  |
 | 013    | Large sum                                         | 27/01/2017 |0.00011s  |![problem solved][solved]      |[Problem 13](https://projecteuler.net/problem=13)  |
 | 014    | Longest Collatz sequence                          | 26/01/2017 |2.20673s  |![problem solved][solved]      |[Problem 14](https://projecteuler.net/problem=14)  |
-| 015    | Lattice paths                                     |            |          |![problem not solved][unsolved]|[Problem 15](https://projecteuler.net/problem=15)  |
+| 015    | Lattice paths                                     | 28/01/2017 |0.00020s  |![problem solved][solved]      |[Problem 15](https://projecteuler.net/problem=15)  |
 | 016    | Power digit sum                                   | 27/01/2017 |0.00018s  |![problem solved][solved]      |[Problem 16](https://projecteuler.net/problem=16)  |
 | 017    | Number letter counts                              | 28/01/2017 |0.00338s  |![problem solved][solved]      |[Problem 17](https://projecteuler.net/problem=17)  |
 | 018    | Maximum path sum I                                |            |          |![problem not solved][unsolved]|[Problem 18](https://projecteuler.net/problem=18)  |
 | 019    | Counting Sundays                                  |            |          |![problem not solved][unsolved]|[Problem 19](https://projecteuler.net/problem=19)  |
 | 020    | Factorial digit sum                               | 28/01/2017 |0.00010s  |![problem solved][solved]      |[Problem 20](https://projecteuler.net/problem=20)  |
+| 021    | Amicable numbers                                  | 28/01/2017 |0.15887s  |![problem solved][solved]      |[Problem 21](https://projecteuler.net/problem=21)  |
 
 [solved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/solved.png "problem solved"
 [unsolved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/unsolved.png "problem not solved"
