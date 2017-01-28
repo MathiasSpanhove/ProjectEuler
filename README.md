@@ -40,7 +40,8 @@ IDE: PyCharm Community Edition
 | 021    | Amicable numbers                                  | 28/01/2017 |0.15887s  |![problem solved][solved]      |[Problem 21](https://projecteuler.net/problem=21)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 025    | 1000-digit Fibonacci number                       | 28/01/2017 |0.13854s  |![problem solved][solved]      |[Problem 25](https://projecteuler.net/problem=25)  |
-
+| ...    | ...                                               | ...        |...       |...                            |...                                                |
+| 028    | Number spiral diagonals                           | 28/01/2017 |0.00051s  |![problem solved][solved]      |[Problem 28](https://projecteuler.net/problem=28)  |
 
 
 [solved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/solved.png "problem solved"
