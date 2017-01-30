@@ -35,12 +35,12 @@ IDE: PyCharm Community Edition
 | 016    | Power digit sum                                   | 27/01/2017 |0.00018s  |![problem solved][solved]      |[Problem 16](https://projecteuler.net/problem=16)  |
 | 017    | Number letter counts                              | 28/01/2017 |0.00338s  |![problem solved][solved]      |[Problem 17](https://projecteuler.net/problem=17)  |
 | 018    | Maximum path sum I                                | 29/01/2017 |0.00019s  |![problem solved][solved]      |[Problem 18](https://projecteuler.net/problem=18)  |
-| 019    | Counting Sundays                                  |            |          |![problem not solved][unsolved]|[Problem 19](https://projecteuler.net/problem=19)  |
+| 019    | Counting Sundays                                  | 30/01/2017 |0.00108s  |![problem solved][solved]      |[Problem 19](https://projecteuler.net/problem=19)  |
 | 020    | Factorial digit sum                               | 28/01/2017 |0.00010s  |![problem solved][solved]      |[Problem 20](https://projecteuler.net/problem=20)  |
 | 021    | Amicable numbers                                  | 28/01/2017 |0.15887s  |![problem solved][solved]      |[Problem 21](https://projecteuler.net/problem=21)  |
-| 022    | Names scores                                      |            |          |![problem not solved][unsolved]|[Problem 22](https://projecteuler.net/problem=22)  |
+| 022    | Names scores                                      | 30/01/2017 |0.01165s  |![problem solved][solved]      |[Problem 22](https://projecteuler.net/problem=22)  |
 | 023    | Non-abundant sums                                 | 30/01/2017 |15.48666s |![problem solved][solved]      |[Problem 23](https://projecteuler.net/problem=23)  |
-| 024    | Lexicographic permutations                        |            |          |![problem not solved][unsolved]|[Problem 24](https://projecteuler.net/problem=24)  |
+| 024    | Lexicographic permutations                        | 30/01/2017 |0.88881s  |![problem solved][solved]      |[Problem 24](https://projecteuler.net/problem=24)  |
 | 025    | 1000-digit Fibonacci number                       | 28/01/2017 |0.13854s  |![problem solved][solved]      |[Problem 25](https://projecteuler.net/problem=25)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 028    | Number spiral diagonals                           | 28/01/2017 |0.00051s  |![problem solved][solved]      |[Problem 28](https://projecteuler.net/problem=28)  |
