@@ -38,10 +38,14 @@ IDE: PyCharm Community Edition
 | 019    | Counting Sundays                                  |            |          |![problem not solved][unsolved]|[Problem 19](https://projecteuler.net/problem=19)  |
 | 020    | Factorial digit sum                               | 28/01/2017 |0.00010s  |![problem solved][solved]      |[Problem 20](https://projecteuler.net/problem=20)  |
 | 021    | Amicable numbers                                  | 28/01/2017 |0.15887s  |![problem solved][solved]      |[Problem 21](https://projecteuler.net/problem=21)  |
-| ...    | ...                                               | ...        |...       |...                            |...                                                |
+| 022    | Names scores                                      |            |          |![problem not solved][unsolved]|[Problem 22](https://projecteuler.net/problem=22)  |
+| 023    | Non-abundant sums                                 | 30/01/2017 |15.48666s |![problem solved][solved]      |[Problem 23](https://projecteuler.net/problem=23)  |
+| 024    | Lexicographic permutations                        |            |          |![problem not solved][unsolved]|[Problem 24](https://projecteuler.net/problem=24)  |
 | 025    | 1000-digit Fibonacci number                       | 28/01/2017 |0.13854s  |![problem solved][solved]      |[Problem 25](https://projecteuler.net/problem=25)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 028    | Number spiral diagonals                           | 28/01/2017 |0.00051s  |![problem solved][solved]      |[Problem 28](https://projecteuler.net/problem=28)  |
+| ...    | ...                                               | ...        |...       |...                            |...                                                |
+| 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
 
 [solved]: https://raw.githubusercontent.com/MathiasSpanhove/ProjectEuler/master/img/solved.png "problem solved"
