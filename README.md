@@ -42,8 +42,12 @@ IDE: PyCharm Community Edition
 | 023    | Non-abundant sums                                 | 30/01/2017 |15.48666s |![problem solved][solved]      |[Problem 23](https://projecteuler.net/problem=23)  |
 | 024    | Lexicographic permutations                        | 30/01/2017 |0.88881s  |![problem solved][solved]      |[Problem 24](https://projecteuler.net/problem=24)  |
 | 025    | 1000-digit Fibonacci number                       | 28/01/2017 |0.13854s  |![problem solved][solved]      |[Problem 25](https://projecteuler.net/problem=25)  |
-| ...    | ...                                               | ...        |...       |...                            |...                                                |
+| 026    | Reciprocal cycles                                 | 30/01/2017 |0.41314s  |![problem solved][solved]      |[Problem 26](https://projecteuler.net/problem=26)  |
+| 027    | Quadratic primes                                  | 30/01/2017 |6.22978s  |![problem solved][solved]      |[Problem 27](https://projecteuler.net/problem=27)  |
 | 028    | Number spiral diagonals                           | 28/01/2017 |0.00051s  |![problem solved][solved]      |[Problem 28](https://projecteuler.net/problem=28)  |
+| 029    | Distinct powers                                   | 30/01/2017 |0.00911s  |![problem solved][solved]      |[Problem 29](https://projecteuler.net/problem=29)  |
+| 030    | Digit fifth powers                                | 30/01/2017 |5.45839s  |![problem solved][solved]      |[Problem 30](https://projecteuler.net/problem=30)  |
+| 031    | Coin sums                                         | 30/01/2017 |0.03779s  |![problem solved][solved]      |[Problem 31](https://projecteuler.net/problem=31)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
