@@ -2,7 +2,7 @@ __author__ = 'Mathias'
 
 
 def primes_sieve(bound):
-    if (bound == 0 or bound == 1):
+    if bound == 0 or bound == 1:
         return 0
 
     a = [True] * bound

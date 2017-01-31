@@ -9,10 +9,10 @@ def get_prime(bound):
     while n <= bound:
         is_prime = True
         for x in primes:
-            if (n % x == 0):
+            if n % x == 0:
                 is_prime = False
                 break
-        if (is_prime):
+        if is_prime:
             primes.append(n)
             yield n
         n += 2
