@@ -48,6 +48,12 @@ IDE: PyCharm Community Edition
 | 029    | Distinct powers                                   | 30/01/2017 |0.00911s  |![problem solved][solved]      |[Problem 29](https://projecteuler.net/problem=29)  |
 | 030    | Digit fifth powers                                | 30/01/2017 |5.45839s  |![problem solved][solved]      |[Problem 30](https://projecteuler.net/problem=30)  |
 | 031    | Coin sums                                         | 30/01/2017 |0.03779s  |![problem solved][solved]      |[Problem 31](https://projecteuler.net/problem=31)  |
+| 032    | Pandigital products                               | 31/01/2017 |0.18051s  |![problem solved][solved]      |[Problem 32](https://projecteuler.net/problem=32)  |
+| 033    | Digit cancelling fractions                        | 31/01/2017 |0.01764s  |![problem solved][solved]      |[Problem 33](https://projecteuler.net/problem=33)  |
+| 034    | Digit factorials                                  | 31/01/2017 |0.28616s  |![problem solved][solved]      |[Problem 34](https://projecteuler.net/problem=34)  |
+| 035    | Circular primes                                   | 31/01/2017 |1.17886s  |![problem solved][solved]      |[Problem 35](https://projecteuler.net/problem=35)  |
+| 036    | Double-base palindromes                           | 31/01/2017 |0.71500s  |![problem solved][solved]      |[Problem 36](https://projecteuler.net/problem=36)  |
+| 037    | Truncatable primes                                | 31/01/2017 |0.43337s  |![problem solved][solved]      |[Problem 37](https://projecteuler.net/problem=37)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
