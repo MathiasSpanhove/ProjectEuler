@@ -54,6 +54,9 @@ IDE: PyCharm Community Edition
 | 035    | Circular primes                                   | 31/01/2017 |1.17886s  |![problem solved][solved]      |[Problem 35](https://projecteuler.net/problem=35)  |
 | 036    | Double-base palindromes                           | 31/01/2017 |0.71500s  |![problem solved][solved]      |[Problem 36](https://projecteuler.net/problem=36)  |
 | 037    | Truncatable primes                                | 31/01/2017 |0.43337s  |![problem solved][solved]      |[Problem 37](https://projecteuler.net/problem=37)  |
+| 038    | Pandigital multiples                              | 01/02/2017 |0.03272s  |![problem solved][solved]      |[Problem 38](https://projecteuler.net/problem=38)  |
+| 039    | Integer right triangles                           | 01/02/2017 |0.17144s  |![problem solved][solved]      |[Problem 39](https://projecteuler.net/problem=39)  |
+| 040    | Champernowne's constant                           | 01/02/2017 |0.15263s  |![problem solved][solved]      |[Problem 40](https://projecteuler.net/problem=40)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
