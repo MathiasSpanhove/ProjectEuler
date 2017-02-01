@@ -57,6 +57,8 @@ IDE: PyCharm Community Edition
 | 038    | Pandigital multiples                              | 01/02/2017 |0.03272s  |![problem solved][solved]      |[Problem 38](https://projecteuler.net/problem=38)  |
 | 039    | Integer right triangles                           | 01/02/2017 |0.17144s  |![problem solved][solved]      |[Problem 39](https://projecteuler.net/problem=39)  |
 | 040    | Champernowne's constant                           | 01/02/2017 |0.15263s  |![problem solved][solved]      |[Problem 40](https://projecteuler.net/problem=40)  |
+| 041    | Pandigital prime                                  | 01/02/2017 |4.88541s  |![problem solved][solved]      |[Problem 41](https://projecteuler.net/problem=41)  |
+| 042    | Coded triangle numbers                            | 01/02/2017 |< 0.00001s|![problem solved][solved]      |[Problem 42](https://projecteuler.net/problem=42)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
