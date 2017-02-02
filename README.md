@@ -59,6 +59,9 @@ IDE: PyCharm Community Edition
 | 040    | Champernowne's constant                           | 01/02/2017 |0.15263s  |![problem solved][solved]      |[Problem 40](https://projecteuler.net/problem=40)  |
 | 041    | Pandigital prime                                  | 01/02/2017 |4.88541s  |![problem solved][solved]      |[Problem 41](https://projecteuler.net/problem=41)  |
 | 042    | Coded triangle numbers                            | 01/02/2017 |< 0.00001s|![problem solved][solved]      |[Problem 42](https://projecteuler.net/problem=42)  |
+| 043    | Sub-string divisibility                           | 02/02/2017 |6.39962s  |![problem solved][solved]      |[Problem 43](https://projecteuler.net/problem=43)  |
+| 044    | Pentagon numbers                                  | 02/02/2017 |0.43241s  |![problem solved][solved]      |[Problem 44](https://projecteuler.net/problem=44)  |
+| 045    | Triangular, pentagonal, and hexagonal             | 02/02/2017 |0.08220s  |![problem solved][solved]      |[Problem 45](https://projecteuler.net/problem=45)  |
 | ...    | ...                                               | ...        |...       |...                            |...                                                |
 | 048    | Self powers                                       | 29/01/2017 |0.00070s  |![problem solved][solved]      |[Problem 48](https://projecteuler.net/problem=48)  |
 
